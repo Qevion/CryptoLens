@@ -215,10 +215,10 @@
 ├─────────────────────────────────────────────────────────────┤
 │ 框架:       React 18 + TypeScript                           │
 │ 状态管理:    Zustand (轻量级状态管理)                       │
-│ UI组件:     shadcn/ui + Radix UI (原生组件)                │
+│ UI组件:     shadcn/ui                 │
 │ 样式方案:   Tailwind CSS + CSS Modules                     │
-│ 图表库:     ECharts 5.x + TradingView Lightweight Charts   │
-│ 构建工具:   Vite 4.x                                       │
+│ 图表库:     TradingView Lightweight Charts   │
+│ 构建工具:   Vite                                      │
 │ 路由:       React Router 6.x                               │
 │ 表单处理:   React Hook Form + Zod (验证)                   │
 │ 数据获取:   TanStack Query (原React Query)                │
